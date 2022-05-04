@@ -1,0 +1,15 @@
+D:\C#\Lessons\Xamarin projects\CustomRadioButton\CustomRadioButton\CustomRadioButton\bin\Debug\netstandard2.0\CustomRadioButton.deps.json
+D:\C#\Lessons\Xamarin projects\CustomRadioButton\CustomRadioButton\CustomRadioButton\bin\Debug\netstandard2.0\CustomRadioButton.dll
+D:\C#\Lessons\Xamarin projects\CustomRadioButton\CustomRadioButton\CustomRadioButton\bin\Debug\netstandard2.0\ref\CustomRadioButton.dll
+D:\C#\Lessons\Xamarin projects\CustomRadioButton\CustomRadioButton\CustomRadioButton\bin\Debug\netstandard2.0\CustomRadioButton.pdb
+D:\C#\Lessons\Xamarin projects\CustomRadioButton\CustomRadioButton\CustomRadioButton\obj\Debug\netstandard2.0\CustomRadioButton.csproj.AssemblyReference.cache
+D:\C#\Lessons\Xamarin projects\CustomRadioButton\CustomRadioButton\CustomRadioButton\obj\Debug\netstandard2.0\CustomRadioButton.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Lessons\Xamarin projects\CustomRadioButton\CustomRadioButton\CustomRadioButton\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\C#\Lessons\Xamarin projects\CustomRadioButton\CustomRadioButton\CustomRadioButton\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\C#\Lessons\Xamarin projects\CustomRadioButton\CustomRadioButton\CustomRadioButton\obj\Debug\netstandard2.0\CustomRadioButton.AssemblyInfoInputs.cache
+D:\C#\Lessons\Xamarin projects\CustomRadioButton\CustomRadioButton\CustomRadioButton\obj\Debug\netstandard2.0\CustomRadioButton.AssemblyInfo.cs
+D:\C#\Lessons\Xamarin projects\CustomRadioButton\CustomRadioButton\CustomRadioButton\obj\Debug\netstandard2.0\CustomRadioButton.csproj.CoreCompileInputs.cache
+D:\C#\Lessons\Xamarin projects\CustomRadioButton\CustomRadioButton\CustomRadioButton\obj\Debug\netstandard2.0\XamlC.stamp
+D:\C#\Lessons\Xamarin projects\CustomRadioButton\CustomRadioButton\CustomRadioButton\obj\Debug\netstandard2.0\CustomRadioButton.dll
+D:\C#\Lessons\Xamarin projects\CustomRadioButton\CustomRadioButton\CustomRadioButton\obj\Debug\netstandard2.0\ref\CustomRadioButton.dll
+D:\C#\Lessons\Xamarin projects\CustomRadioButton\CustomRadioButton\CustomRadioButton\obj\Debug\netstandard2.0\CustomRadioButton.pdb
